@@ -18,12 +18,12 @@ I'm interested in **web development**, **AI/ML**, **cloud architecture**, and **
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 
 ## 🤖 AI/ML & Deep Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-blue)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Advanced-blue)
-![Gen AI](https://img.shields.io/badge/Generative%20AI-Advanced-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6B6B.svg?style=flat&logo=machinelearning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6B6B.svg?style=flat&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Generative%20AI-%23FF6B6B.svg?style=flat&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white)
 
 ## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-![Deployment](https://img.shields.io/badge/Deployment-Expert-success)
+![Deployment](https://img.shields.io/badge/Deployment-%2361DAFB.svg?style=flat&logoColor=white)
