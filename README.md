@@ -27,11 +27,3 @@ I'm interested in **web development**, **AI/ML**, **cloud architecture**, and **
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Deployment](https://img.shields.io/badge/Deployment-Expert-success)
-
----
-
-<div align="center">
-  <a href="https://github.com/netram75">
-    <img src="https://img.shields.io/github/followers/netram75?label=Follow&style=social" />
-  </a>
-</div>
