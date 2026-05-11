@@ -30,15 +30,6 @@ I'm interested in **web development**, **AI/ML**, **cloud architecture**, and **
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=netram75&show_icons=true&theme=dark)
-
-### 📌 Featured Projects
-Check out my repositories for full-stack projects, ML models, and deployment solutions!
-
----
-
 <div align="center">
   <a href="https://github.com/netram75">
     <img src="https://img.shields.io/github/followers/netram75?label=Follow&style=social" />
